@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# About
-
-## Where Geology Meets Gastronomy
+# Where Geology Meets Gastronomy
 Welcome to Mine & Morsel, born from a passion where the richness of the earth meets the art of edible design. 
 
 I'm a geologist by day and my fascination with the beauty of rocks and minerals runs deep. Just like a carefully unearthed gem, I found an equally compelling passion in crafting beautiful, abundant charcuterie grazing tables.
