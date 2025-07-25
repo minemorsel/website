@@ -1,4 +1,6 @@
 title: "Mine & Morsel"
 description: "Uncover the perfect bite."
 url: "https://mine-morsel.com"
-theme: minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.27.2"
+plugins:
+  - jekyll-include-cache
