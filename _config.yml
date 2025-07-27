@@ -2,3 +2,6 @@ title: "Mine & Morsel"
 description: "Uncover the perfect bite."
 url: "https://mine-morsel.com"
 theme: "minima"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
