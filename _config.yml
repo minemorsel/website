@@ -19,6 +19,7 @@ minima:
 
 # Header navigation (optional)
 header_pages:
+  - menu.md
   - about.md
   - contact.md # Example: if you create a contact.md page
 
