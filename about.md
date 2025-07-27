@@ -7,7 +7,7 @@ permalink: /about/
 # Where Geology Meets Gastronomy
 Welcome to Mine & Morsel, born from a passion where the richness of the earth meets the art of edible design. 
 
-I'm a geologist by day and my fascination with the beauty of rocks and minerals runs deep. Just like a carefully unearthed gem, I found an equally compelling passion in crafting beautiful, abundant charcuterie grazing tables.
+My name is Courtney. I'm a geologist by day; my fascination with the beauty of rocks and minerals runs deep. Just like a carefully unearthed gem, I found an equally compelling passion in crafting beautiful, abundant charcuterie grazing tables.
 
 Inspired by Pittsburgh's rich coal mining history and my personal love for geology, Mine & Morsel brings a unique, grounded elegance to every event. I believe that every gathering, no matter the size, deserves to be memorable and special. That's why I create expansive, artfully arranged grazing tables that are as much a feast for the eyes as they are for the palate.
 
