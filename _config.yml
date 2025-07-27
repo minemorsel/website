@@ -1,4 +1,4 @@
 title: "Mine & Morsel"
 description: "Uncover the perfect bite."
 url: "https://mine-morsel.com"
-remote_theme: "minima"
+remote_theme: "jekyll/minima@2.5.1"
