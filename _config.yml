@@ -20,7 +20,7 @@ minima:
 # Header navigation (optional)
 header_pages:
   - about.md
-  - contact.md # Example: if you create a contact.md page
+#  - contact.md # Example: if you create a contact.md page
 
 # Exclude from processing.
 # The following items will not be processed, by default.
