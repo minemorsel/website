@@ -4,6 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
+# Contact
 For questions or to discuss your upcoming grazing needs: 
 - [Gmail](mailto:minemorsel@gmail.com)
 
