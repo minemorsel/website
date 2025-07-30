@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Add-Ons</title>
+    <title>Add-Ons | Mine & Morsel</title>
     <!-- Load Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Inter font for a modern look -->
@@ -16,6 +16,28 @@
     </style>
 </head>
 <body class="antialiased text-gray-800">
+
+    <!-- Header Section -->
+    <header class="bg-white shadow-sm py-4 px-6 md:px-10 relative z-20">
+        <div class="container mx-auto flex justify-between items-center">
+            <div class="flex items-center space-x-2"> <!-- Added flex container for logo and title -->
+
+                <!-- Logo next to "Mine & Morsel" -->
+                <!-- <img src="assets/images/logo.png" -->
+                     <!-- alt="Company Logo" -->
+                     <!-- Logo Upper left -->
+                     <!-- class="w-[250.0px] h-[250.0px] rounded-full border-4 border-white shadow-lg absolute top-8 left-60 z-30 object-cover"> -->
+                <h1 class="text-2xl font-bold text-[#120f08]"></h1>
+            </div>
+            <nav>
+                <ul class="flex space-x-4">
+                    <li><a href="/about" class="text-gray-600 hover:text-gray-800 font-medium">About</a></li>
+                    <li><a href="/contact" class="text-gray-600 hover:text-gray-800 font-medium">Contact</a></li> 
+                </ul>
+            </nav>
+        </div>
+    </header>
+
     <main class="container mx-auto my-8 p-6 bg-[#f3f2f3] rounded-lg shadow-md"> <!-- Main content background to Light cream/gray -->
         <section class="text-center mb-8 bg-white p-6 rounded-lg"> <!-- Background color and padding applied -->
             <h2 class="text-4xl font-extrabold text-[#120f08] mb-4">Make it better!</h2> <!-- Updated heading text -->
@@ -24,20 +46,21 @@
             </p>
         </section>
 
-        <section class="grid grid-cols-1 gap-8">
+        <section class="grid grid-cols-1 md:grid-cols-2 gap-8">
             <!-- Ice Mold -->
             <div class="bg-white p-6 rounded-lg shadow-sm hover:shadow-md transition-shadow duration-300 flex flex-col items-center text-center">
-                <img src="assets/images/smallgt.jpg" alt="Brunch" class="w-24 h-24 mb-4 rounded-full object-cover">
-                <h3 class="text-2xl font-semibold text-[#501625] mb-3">Custom Crystallization Add-On: Champagne Ice Mold</h3>
+                <img src="assets/images/ice.png" alt="Brunch" class="w-24 h-24 mb-4 rounded-full object-cover">
+                <h3 class="text-2xl font-semibold text-[#501625] mb-3">Custom Ice Mold</h3>
                 <p class="text-[#120f08]">
                     Elevate your experience and keep your bubbly cold with a custom-designed ice mold for the center of your table.<br /> 
+                   
 		    *Must provide your own alcohol                
                 </p>
             </div>
             <!-- Brunch Add-On -->
             <div class="bg-white p-6 rounded-lg shadow-sm hover:shadow-md transition-shadow duration-300 flex flex-col items-center text-center">
-                <img src="assets/images/smallgt.jpg" alt="Brunch" class="w-24 h-24 mb-4 rounded-full object-cover">
-                <h3 class="text-2xl font-semibold text-[#501625] mb-3">The Quartz Collection: Brunch Add-On</h3>
+                <img src="assets/images/brunch.png" alt="Brunch" class="w-24 h-24 mb-4 rounded-full object-cover">
+                <h3 class="text-2xl font-semibold text-[#501625] mb-3">The Quartz Collection: Brunch</h3>
                 <p class="text-[#120f08]">
                     Transform your grazing table into a brunch spectacular with this delightful assortment:<br />  
 		    - Assorted Mini Bagels & Cream Cheeses<br /> 
@@ -48,22 +71,22 @@
             </div>
             <!-- Lunch Add-On -->
             <div class="bg-white p-6 rounded-lg shadow-sm hover:shadow-md transition-shadow duration-300 flex flex-col items-center text-center">
-                <img src="assets/images/smallgt.jpg" alt="Brunch" class="w-24 h-24 mb-4 rounded-full object-cover">
-                <h3 class="text-2xl font-semibold text-[#501625] mb-3">The Amber Assemblage: Lunch Add-On</h3>
+                <img src="assets/images/lunch.png" alt="Brunch" class="w-24 h-24 mb-4 rounded-full object-cover">
+                <h3 class="text-2xl font-semibold text-[#501625] mb-3">The Amber Assemblage: Lunch</h3>
                 <p class="text-[#120f08]">
                     Add a satisfying midday touch with our elegant lunch selections:<br />  
-		    - Artisan Cocktail Sandwiches<br /> 
+		    - Assorted Cocktail Sandwiches<br /> 
 	 	    - Savory Pinwheel Wraps<br />
                 </p>
             </div>
             <!-- Sweet & Savory Add-On -->
             <div class="bg-white p-6 rounded-lg shadow-sm hover:shadow-md transition-shadow duration-300 flex flex-col items-center text-center">
-                <img src="assets/images/smallgt.jpg" alt="Brunch" class="w-24 h-24 mb-4 rounded-full object-cover">
-                <h3 class="text-2xl font-semibold text-[#501625] mb-3">The Pyrite Platter: Sweet & Savory Add-On</h3>
+                <img src="assets/images/sweet.png" alt="Brunch" class="w-24 h-24 mb-4 rounded-full object-cover">
+                <h3 class="text-2xl font-semibold text-[#501625] mb-3">The Pyrite Platter: Sweet & Savory</h3>
                 <p class="text-[#120f08]">
                     Indulge in a delightful balance of flavors with this tempting addition:<br />  
 		    - Chocolate-Covered Pretzels & Strawberries<br /> 
-	 	    - Artisanal Cookies & Macarons<br />
+	 	    - Cookies & Macarons<br />
 	 	    - Gourmet Nut Mixes (sweet & spiced)<br />
 	 	    - Miniature Dessert Bites<br />
                 </p>
